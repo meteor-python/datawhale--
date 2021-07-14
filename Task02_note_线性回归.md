@@ -108,9 +108,9 @@ Back to Step1：模型建立
 
 通过对**Pokemons的种类**判断，将4个线性模型合并到一个线性模型当中
 
-<img src="Task_pic/image-20210714225812184.png" alt="image-20210714225812184" style="zoom: 80%;" />![image-20210714225901175](Task_pic/image-20210714225901175.png)![image-20210714225915226](Task_pic/image-20210714225915226.png)
+<img src="Task_pic/image-20210714225812184.png" alt="image-20210714225812184" style="zoom: 80%;" />
 
-<img src="Task_pic/image-20210714225915226.png" alt="image-20210714225812184" style="zoom: 67%;" />
+<img src="Task_pic/image-20210714225901175.png" alt="image-20210714225901175" style="zoom: 67%;" />
 
 #### Step2：其他因素
 
