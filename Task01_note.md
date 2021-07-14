@@ -33,7 +33,7 @@ Machine learns the meaning of words from reading a lot of documents
 
 #### Learning Map
 
-![image-20210713015624188](Task01_note.assets/image-20210713015624188.png)
+![image-20210713015624188](Task_pic/image-20210713015624188.png)
 
 1.Regression
 
