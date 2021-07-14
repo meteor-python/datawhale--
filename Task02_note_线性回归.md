@@ -74,7 +74,7 @@ $$
 \end{bmatrix}_{gradient}
 $$
 
-<img src="Task_pic/image-20210714235426036.png" alt="image-20210714235426036" style="zoom: 33%;" />
+<img src="Task_pic/image-20210714235426036.png" alt="image-20210714235426036" style="zoom: 50%;" />
 
 - convex——no local optimal
 
@@ -84,7 +84,7 @@ $$
 
 平均误差为31.9
 
-<img src="Task_pic/image-20210714222229074.png" alt="image-20210714222229074" style="zoom: 33%;" />
+<img src="Task_pic/image-20210714222229074.png" alt="image-20210714222229074" style="zoom: 50%;" />
 
 #### How can we do better?
 
